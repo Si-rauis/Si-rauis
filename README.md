@@ -1,5 +1,6 @@
 ## Hi there 👋✨
 
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=강시영%20입니다&textBg=false)
 <!--
 **Si-rauis/Si-rauis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
